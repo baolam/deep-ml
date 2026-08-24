@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:59:55.866Z",
+  "generated_at": "2026-09-18T04:59:57.327Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -52,6 +52,58 @@
       "last_pushed_at": "2026-08-23T13:50:01.606Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-24T12:13:37.436Z",
+      "last_pushed_at": "2026-08-24T12:13:37.436Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-24T12:14:27.006Z",
+      "last_pushed_at": "2026-08-24T12:14:27.006Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-24T12:46:15.778Z",
+      "last_pushed_at": "2026-08-24T12:46:15.778Z",
+      "language": "python",
+      "lines": 5
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-08-24T16:15:48.232Z",
+      "last_pushed_at": "2026-08-24T16:15:48.232Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
