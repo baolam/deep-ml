@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:00:00.373Z",
+  "generated_at": "2026-09-18T05:00:02.047Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -169,6 +169,32 @@
       "last_pushed_at": "2026-08-31T04:43:33.752Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-08T00:33:22.318Z",
+      "last_pushed_at": "2026-09-08T00:33:22.318Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-08T03:01:43.580Z",
+      "last_pushed_at": "2026-09-08T03:01:43.580Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
