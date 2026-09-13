@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:00:05.339Z",
+  "generated_at": "2026-09-18T05:00:07.034Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -247,6 +247,32 @@
       "last_pushed_at": "2026-09-11T04:22:30.590Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:768": {
+      "kind": "problem",
+      "id": "768",
+      "title": "Rejection Sampling Best-of-K Selection",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/768",
+      "path": "problems/0768-rejection-sampling-best-of-k-selection",
+      "first_solved_at": "2026-09-13T04:22:34.188Z",
+      "last_pushed_at": "2026-09-13T04:22:34.188Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:757": {
+      "kind": "problem",
+      "id": "757",
+      "title": "Fill-in-the-Middle Document Transformation",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/757",
+      "path": "problems/0757-fill-in-the-middle-document-transformation",
+      "first_solved_at": "2026-09-13T08:44:28.394Z",
+      "last_pushed_at": "2026-09-13T08:44:28.394Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
