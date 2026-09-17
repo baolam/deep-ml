@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:00:08.616Z",
+  "generated_at": "2026-09-18T05:00:10.069Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -286,6 +286,19 @@
       "last_pushed_at": "2026-09-14T15:24:05.743Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:920": {
+      "kind": "problem",
+      "id": "920",
+      "title": "Tinygrad: Iterate Mini-Batches",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/920",
+      "path": "problems/0920-tinygrad-iterate-mini-batches",
+      "first_solved_at": "2026-09-17T05:13:21.449Z",
+      "last_pushed_at": "2026-09-17T05:13:21.449Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
