@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:19:00.309Z",
+  "generated_at": "2026-09-18T10:03:41.995Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -325,6 +325,19 @@
       "last_pushed_at": "2026-09-18T06:18:59.750Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:1386": {
+      "kind": "problem",
+      "id": "1386",
+      "title": "Receptive Field of Dilated Causal Convolutions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1386",
+      "path": "problems/1386-receptive-field-of-dilated-causal-convolutions",
+      "first_solved_at": "2026-09-18T10:03:41.070Z",
+      "last_pushed_at": "2026-09-18T10:03:41.070Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
