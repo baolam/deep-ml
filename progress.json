@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:06:37.363Z",
+  "generated_at": "2026-09-18T15:27:31.229Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -351,6 +351,19 @@
       "last_pushed_at": "2026-09-18T15:06:36.475Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:272": {
+      "kind": "problem",
+      "id": "272",
+      "title": "First-Visit Monte Carlo Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/272",
+      "path": "problems/0272-first-visit-monte-carlo-prediction",
+      "first_solved_at": "2026-09-18T15:27:24.161Z",
+      "last_pushed_at": "2026-09-18T15:27:24.161Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
