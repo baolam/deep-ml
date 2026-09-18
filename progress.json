@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:03:41.995Z",
+  "generated_at": "2026-09-18T15:06:37.363Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -338,6 +338,19 @@
       "last_pushed_at": "2026-09-18T10:03:41.070Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:783": {
+      "kind": "problem",
+      "id": "783",
+      "title": "Multi-layer ViT Feature Concatenation",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/783",
+      "path": "problems/0783-multi-layer-vit-feature-concatenation",
+      "first_solved_at": "2026-09-18T15:06:36.475Z",
+      "last_pushed_at": "2026-09-18T15:06:36.475Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
