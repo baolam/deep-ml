@@ -27,7 +27,7 @@ def first_visit_mc_prediction(
             if state not in first:
                 first[state] = t
         
-        G = 0.0
+        G = 0.
         for t in range(len(episode) - 1, -1, -1):
             state, reward = episode[t]
             G = reward + gamma * G
@@ -37,7 +37,7 @@ def first_visit_mc_prediction(
                 return_counts[state] += 1.0
     
     V = np.zeros(n_states, dtype=float)
-    visited_mask = return_counts > 0
+    mask = return_counts > 0
+    V[mask] = return_sums[mask] / return_counts[mask]
 
-    V[visited_mask] = return_sums[visited_mask] / return_counts[visited_mask]
-    return V 
+    return V

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:27:31.229Z",
+  "generated_at": "2026-09-18T15:32:25.902Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -361,7 +361,7 @@
       "url": "https://www.deep-ml.com/problems/272",
       "path": "problems/0272-first-visit-monte-carlo-prediction",
       "first_solved_at": "2026-09-18T15:27:24.161Z",
-      "last_pushed_at": "2026-09-18T15:27:24.161Z",
+      "last_pushed_at": "2026-09-18T15:32:25.023Z",
       "language": "python",
       "lines": 43
     }
