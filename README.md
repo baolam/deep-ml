@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 26 problems · 2 labs · 0 math
+**29** solved · 27 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-09-18 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-14 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Grammar-Constrained Token Masking](https://www.deep-ml.com/problems/1215) | medium | 2026-09-11 | [solution](problems/1215-grammar-constrained-token-masking) |
+| [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-09-19 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-31 | [solution](problems/0007-matrix-transformation) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-18 | [solution](problems/0849-precision-and-recall-at-threshold) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:32:25.902Z",
+  "generated_at": "2026-09-19T17:05:17.388Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -364,6 +364,19 @@
       "last_pushed_at": "2026-09-18T15:32:25.023Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:343": {
+      "kind": "problem",
+      "id": "343",
+      "title": "Implement Random Forest Feature Importance",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/343",
+      "path": "problems/0343-implement-random-forest-feature-importance",
+      "first_solved_at": "2026-09-19T17:05:15.549Z",
+      "last_pushed_at": "2026-09-19T17:05:15.549Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
