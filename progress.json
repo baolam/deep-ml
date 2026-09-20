@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:55:26.183Z",
+  "generated_at": "2026-09-20T08:02:45.846Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -400,9 +400,9 @@
       "url": "https://www.deep-ml.com/problems/232",
       "path": "problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf",
       "first_solved_at": "2026-09-20T07:55:25.426Z",
-      "last_pushed_at": "2026-09-20T07:55:25.426Z",
+      "last_pushed_at": "2026-09-20T08:02:44.726Z",
       "language": "python",
-      "lines": 47
+      "lines": 45
     }
   }
 }

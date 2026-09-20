@@ -28,20 +28,18 @@ def compute_ptx_loss(
 		- ce_loss: Cross-entropy on pre-training data
 		- weighted_ce_loss: beta_ptx * L_CE
 	"""
-	# Your code here
-	logits = np.max(pretrain_logits, axis=-1, keepdims=True)
-	shifted = pretrain_logits - logits
+	max_logits = np.max(pretrain_logits, axis=-1, keepdims=True)
+	shifted = pretrain_logits - max_logits
 
-	log_softmax = np.log(np.sum(np.exp(shifted), axis=-1, keepdims=True))
-	log_probs = shifted - log_softmax
+	log_sum = np.log(np.sum(np.exp(shifted), axis=-1, keepdims=True))
+	log_probs = shifted - log_sum
 
 	batch_size = len(pretrain_logits)
 	batch_index = np.arange(0, batch_size, 1)
 
-	true = log_probs[batch_index, pretrain_labels]
+	true_probs = log_probs[batch_index, pretrain_labels]
+	ce_loss = float(- np.mean(true_probs))
+	weighted_ce_loss = beta_ptx * ce_loss
+	total_loss = rl_loss + weighted_ce_loss
 
-	ce_loss = float(-np.mean(true))
-	weighted_ce = beta_ptx * ce_loss
-	total_loss = rl_loss + weighted_ce
-
-	return total_loss, ce_loss, weighted_ce
+	return total_loss, ce_loss, weighted_ce_loss
