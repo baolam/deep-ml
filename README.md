@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 30 problems · 2 labs · 0 math
+**33** solved · 31 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Receptive Field of Dilated Causal Convolutions](https://www.deep-ml.com/problems/1386) | easy | 2026-09-18 | [solution](problems/1386-receptive-field-of-dilated-causal-convolutions) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-13 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-23 | [solution](problems/0003-reshape-matrix) |
+| [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-09-20 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-24 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Tensor Puzzle: Heaviside Step with Zero-Value](https://www.deep-ml.com/problems/1286) | easy | 2026-09-18 | [solution](problems/1286-tensor-puzzle-heaviside-step-with-zero-value) |
 | [Tinygrad: Iterate Mini-Batches](https://www.deep-ml.com/problems/920) | easy | 2026-09-17 | [solution](problems/0920-tinygrad-iterate-mini-batches) |
