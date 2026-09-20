@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:55:52.441Z",
+  "generated_at": "2026-09-20T18:57:33.338Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -426,9 +426,9 @@
       "url": "https://www.deep-ml.com/problems/888",
       "path": "problems/0888-save-and-load-model-weights-with-state-dict",
       "first_solved_at": "2026-09-20T18:55:51.756Z",
-      "last_pushed_at": "2026-09-20T18:55:51.756Z",
+      "last_pushed_at": "2026-09-20T18:57:32.768Z",
       "language": "python",
-      "lines": 16
+      "lines": 13
     }
   }
 }
