@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 35 problems · 2 labs · 0 math
+**38** solved · 36 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-18 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-09-20 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-08 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-21 | [solution](problems/0589-deterministic-policy-gradient) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-09 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ## Labs
