@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 32 problems · 2 labs · 0 math
+**35** solved · 33 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-17 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Merge LoRA Adapter Weights for Zero-Latency Inference](https://www.deep-ml.com/problems/866) | easy | 2026-09-11 | [solution](problems/0866-merge-lora-adapter-weights-for-zero-latency-inference) |
 | [Multi-layer ViT Feature Concatenation](https://www.deep-ml.com/problems/783) | easy | 2026-09-18 | [solution](problems/0783-multi-layer-vit-feature-concatenation) |
+| [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-21 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Receptive Field of Dilated Causal Convolutions](https://www.deep-ml.com/problems/1386) | easy | 2026-09-18 | [solution](problems/1386-receptive-field-of-dilated-causal-convolutions) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-13 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-23 | [solution](problems/0003-reshape-matrix) |
