@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:36:55.137Z",
+  "generated_at": "2026-09-21T10:37:21.654Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -468,6 +468,19 @@
       "last_pushed_at": "2026-09-21T10:36:54.468Z",
       "language": "sql",
       "lines": 3
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-09-21T10:37:20.844Z",
+      "last_pushed_at": "2026-09-21T10:37:20.844Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
