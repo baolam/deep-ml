@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 31 problems · 2 labs · 0 math
+**34** solved · 32 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-09-20 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-24 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Tensor Puzzle: Heaviside Step with Zero-Value](https://www.deep-ml.com/problems/1286) | easy | 2026-09-18 | [solution](problems/1286-tensor-puzzle-heaviside-step-with-zero-value) |
+| [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-09-21 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
 | [Tinygrad: Iterate Mini-Batches](https://www.deep-ml.com/problems/920) | easy | 2026-09-17 | [solution](problems/0920-tinygrad-iterate-mini-batches) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-23 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
