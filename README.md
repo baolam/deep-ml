@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 37 problems · 2 labs · 0 math
+**40** solved · 38 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-08 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Fill-in-the-Middle Document Transformation](https://www.deep-ml.com/problems/757) | easy | 2026-09-13 | [solution](problems/0757-fill-in-the-middle-document-transformation) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-09-20 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-23 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-18 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-17 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Merge LoRA Adapter Weights for Zero-Latency Inference](https://www.deep-ml.com/problems/866) | easy | 2026-09-11 | [solution](problems/0866-merge-lora-adapter-weights-for-zero-latency-inference) |
