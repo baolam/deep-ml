@@ -2,10 +2,10 @@ def allocator_ops(num_blocks, operations):
     # num_blocks: int, total number of fixed-size blocks
     # operations: list of tuples like ("alloc",) or ("free", idx)
     # return: list of results (int for alloc, bool for free)
-    allocated = [False] * num_blocks
-    free = []
-    next_untouched = 0
     results = []
+
+    allocated, free = [False] * num_blocks, []
+    next_untouched = 0
 
     for op in operations:
         if op[0] == 'alloc':
@@ -22,11 +22,13 @@ def allocator_ops(num_blocks, operations):
                 results.append(-1)
         else:
             idx = op[1]
+
             if 0 <= idx < num_blocks and allocated[idx]:
                 allocated[idx] = False
                 free.append(idx)
                 results.append(True)
             else:
                 results.append(False)
-    
+
+
     return results
