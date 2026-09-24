@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:43:18.648Z",
+  "generated_at": "2026-09-24T08:25:26.499Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -533,6 +533,19 @@
       "last_pushed_at": "2026-09-23T07:43:17.352Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:1191": {
+      "kind": "problem",
+      "id": "1191",
+      "title": "Fixed-Size Block Memory Allocator",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1191",
+      "path": "problems/1191-fixed-size-block-memory-allocator",
+      "first_solved_at": "2026-09-24T08:25:25.756Z",
+      "last_pushed_at": "2026-09-24T08:25:25.756Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
