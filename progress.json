@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:49:54.568Z",
+  "generated_at": "2026-09-27T16:50:11.534Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -673,7 +673,7 @@
       "url": "https://www.deep-ml.com/problems/1270",
       "path": "problems/1270-tensor-puzzle-outer-product-via-broadcasting",
       "first_solved_at": "2026-09-27T16:49:53.919Z",
-      "last_pushed_at": "2026-09-27T16:49:53.919Z",
+      "last_pushed_at": "2026-09-27T16:50:10.690Z",
       "language": "python",
       "lines": 7
     }
