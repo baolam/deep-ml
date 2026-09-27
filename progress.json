@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:47:10.705Z",
+  "generated_at": "2026-09-27T16:49:54.568Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -663,6 +663,19 @@
       "last_pushed_at": "2026-09-27T13:47:09.718Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1270": {
+      "kind": "problem",
+      "id": "1270",
+      "title": "Tensor Puzzle: Outer Product via Broadcasting",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1270",
+      "path": "problems/1270-tensor-puzzle-outer-product-via-broadcasting",
+      "first_solved_at": "2026-09-27T16:49:53.919Z",
+      "last_pushed_at": "2026-09-27T16:49:53.919Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
