@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:18:21.815Z",
+  "generated_at": "2026-09-28T16:20:47.786Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -687,6 +687,19 @@
       "path": "problems/0044-leaky-relu-activation-function",
       "first_solved_at": "2026-09-28T16:18:20.806Z",
       "last_pushed_at": "2026-09-28T16:18:20.806Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-09-28T16:20:47.091Z",
+      "last_pushed_at": "2026-09-28T16:20:47.091Z",
       "language": "python",
       "lines": 4
     }
