@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:23:54.097Z",
+  "generated_at": "2026-09-28T16:25:29.103Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -713,6 +713,19 @@
       "path": "problems/0083-dot-product-calculator",
       "first_solved_at": "2026-09-28T16:23:53.129Z",
       "last_pushed_at": "2026-09-28T16:23:53.129Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-09-28T16:25:28.395Z",
+      "last_pushed_at": "2026-09-28T16:25:28.395Z",
       "language": "python",
       "lines": 15
     }
