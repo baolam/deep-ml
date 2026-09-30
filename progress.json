@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:55:03.285Z",
+  "generated_at": "2026-09-30T19:43:09.100Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -793,6 +793,19 @@
       "last_pushed_at": "2026-09-30T16:55:02.260Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1238": {
+      "kind": "problem",
+      "id": "1238",
+      "title": "Conditional Aggregation of Odd vs Even Readings per Day",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1238",
+      "path": "problems/1238-conditional-aggregation-of-odd-vs-even-readings-per-day",
+      "first_solved_at": "2026-09-30T19:43:08.194Z",
+      "last_pushed_at": "2026-09-30T19:43:08.194Z",
+      "language": "sql",
+      "lines": 8
     }
   }
 }
