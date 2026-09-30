@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 57 problems · 2 labs · 0 math
+**60** solved · 58 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simulate LoRA Rank Selection with Synthetic Low-Rank Updates](https://www.deep-ml.com/problems/879) | medium | 2026-09-27 | [solution](problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-08 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-21 | [solution](problems/0589-deterministic-policy-gradient) |
+| [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-09-30 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-09 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ## Labs

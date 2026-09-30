@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:20:48.584Z",
+  "generated_at": "2026-09-30T16:37:30.703Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -767,6 +767,19 @@
       "last_pushed_at": "2026-09-29T03:20:48.154Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:481": {
+      "kind": "problem",
+      "id": "481",
+      "title": "REINFORCE with Baseline: Episode Update",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/481",
+      "path": "problems/0481-reinforce-with-baseline-episode-update",
+      "first_solved_at": "2026-09-30T16:37:29.598Z",
+      "last_pushed_at": "2026-09-30T16:37:29.598Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
