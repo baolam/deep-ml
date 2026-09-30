@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 58 problems · 2 labs · 0 math
+**61** solved · 59 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-09-18 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-24 | [solution](problems/1191-fixed-size-block-memory-allocator) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-14 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
+| [GPT FeedForward Block (Linear-GELU-Linear)](https://www.deep-ml.com/problems/1007) | medium | 2026-09-30 | [solution](problems/1007-gpt-feedforward-block-linear-gelu-linear) |
 | [Grammar-Constrained Token Masking](https://www.deep-ml.com/problems/1215) | medium | 2026-09-11 | [solution](problems/1215-grammar-constrained-token-masking) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-09-19 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-09-19 | [solution](problems/0343-implement-random-forest-feature-importance) |
