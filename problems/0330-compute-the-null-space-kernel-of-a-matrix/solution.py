@@ -16,5 +16,4 @@ def compute_null_space(A: np.ndarray, tol: float = 1e-10) -> np.ndarray:
     null = np.zeros(vh.shape[0], dtype=bool)
     null[:len(s)] = s <= tol
     null[len(s):] = True
-
     return vh[null].T.conj()
