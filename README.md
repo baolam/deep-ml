@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 66 problems · 2 labs · 0 math
+**69** solved · 67 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-31 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-27 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-10-02 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-10-02 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-09-24 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-08 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |

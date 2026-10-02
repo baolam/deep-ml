@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:25:31.476Z",
+  "generated_at": "2026-10-02T03:28:50.905Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -882,6 +882,19 @@
       "path": "problems/0121-vector-element-wise-sum",
       "first_solved_at": "2026-10-02T03:25:31.405Z",
       "last_pushed_at": "2026-10-02T03:25:31.405Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-10-02T03:28:50.878Z",
+      "last_pushed_at": "2026-10-02T03:28:50.878Z",
       "language": "python",
       "lines": 11
     }
