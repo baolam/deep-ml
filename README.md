@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 62 problems · 2 labs · 0 math
+**65** solved · 63 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-08-31 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-31 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-27 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
