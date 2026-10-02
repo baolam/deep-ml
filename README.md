@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 65 problems · 2 labs · 0 math
+**68** solved · 66 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-09-21 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
 | [Tinygrad: Iterate Mini-Batches](https://www.deep-ml.com/problems/920) | easy | 2026-09-17 | [solution](problems/0920-tinygrad-iterate-mini-batches) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-23 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-02 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-10-02 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Conditional Aggregation of Odd vs Even Readings per Day](https://www.deep-ml.com/problems/1238) | medium | 2026-09-30 | [solution](problems/1238-conditional-aggregation-of-odd-vs-even-readings-per-day) |

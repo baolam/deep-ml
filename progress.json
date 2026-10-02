@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:23:13.557Z",
+  "generated_at": "2026-10-02T03:25:31.476Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -869,6 +869,19 @@
       "path": "problems/0082-grayscale-image-contrast-calculator",
       "first_solved_at": "2026-10-02T03:23:13.427Z",
       "last_pushed_at": "2026-10-02T03:23:13.427Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-02T03:25:31.405Z",
+      "last_pushed_at": "2026-10-02T03:25:31.405Z",
       "language": "python",
       "lines": 11
     }
