@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 76 problems · 2 labs · 0 math
+**79** solved · 77 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-31 | [solution](problems/0007-matrix-transformation) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-18 | [solution](problems/0849-precision-and-recall-at-threshold) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-09-20 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate LoRA Rank Selection with Synthetic Low-Rank Updates](https://www.deep-ml.com/problems/879) | medium | 2026-09-27 | [solution](problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates) |
