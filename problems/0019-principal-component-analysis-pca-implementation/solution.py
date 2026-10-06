@@ -15,23 +15,21 @@ def pca(data: np.ndarray, k: int) -> np.ndarray:
     # Your code here
     mean = np.mean(data, axis=0)
     std = np.std(data, axis=0)
+    cov = np.cov((data - mean) / std, rowvar=False)
 
-    normX = (data - mean) / std
-    cov = np.cov(normX, rowvar=False)
-    values, vectors = np.linalg.eigh(cov)
+    vals, vectors = np.linalg.eigh(cov)
 
-    sort_indices = np.argsort(values)[::-1]
-    components = vectors[:, sort_indices]
-    components = components[:, :k]
+    sorted_indices = np.argsort(vals)[::-1]
+    vectors = vectors[:, sorted_indices]
+    components = vectors[:, :k]
 
     for j in range(k):
         col = components[:, j]
-        non_zindex = np.where(np.abs(col) > 1e-10)[0]
-        if len(non_zindex) <= 0:
+        nonzero = np.where(np.abs(col) > 1e-10)[0]
+        if len(nonzero) == 0:
             continue
-        first = col[non_zindex[0]]
+        first = col[nonzero][0]
         if first < 0:
             components[:, j] *= -1.0
- 
+
     return np.round(components, 4)
-    
