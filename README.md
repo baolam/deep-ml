@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 79 problems · 2 labs · 0 math
+**82** solved · 80 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-10-02 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Conditional Aggregation of Odd vs Even Readings per Day](https://www.deep-ml.com/problems/1238) | medium | 2026-09-30 | [solution](problems/1238-conditional-aggregation-of-odd-vs-even-readings-per-day) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-10-07 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dueling Network Architecture](https://www.deep-ml.com/problems/592) | medium | 2026-09-11 | [solution](problems/0592-dueling-network-architecture) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-09-18 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-24 | [solution](problems/1191-fixed-size-block-memory-allocator) |
