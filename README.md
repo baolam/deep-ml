@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 81 problems · 2 labs · 0 math
+**84** solved · 82 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Masked Cross-Entropy Loss for Supervised Finetuning](https://www.deep-ml.com/problems/795) | medium | 2026-09-23 | [solution](problems/0795-masked-cross-entropy-loss-for-supervised-finetuning) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-31 | [solution](problems/0007-matrix-transformation) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-08 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-18 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-09-20 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
