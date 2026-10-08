@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 80 problems · 2 labs · 0 math
+**83** solved · 81 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-09-18 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-24 | [solution](problems/1191-fixed-size-block-memory-allocator) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-14 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-10-08 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [GPT FeedForward Block (Linear-GELU-Linear)](https://www.deep-ml.com/problems/1007) | medium | 2026-09-30 | [solution](problems/1007-gpt-feedforward-block-linear-gelu-linear) |
 | [Grammar-Constrained Token Masking](https://www.deep-ml.com/problems/1215) | medium | 2026-09-11 | [solution](problems/1215-grammar-constrained-token-masking) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-05 | [solution](problems/0049-implement-adam-optimization-algorithm) |
