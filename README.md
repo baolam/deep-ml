@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 89 problems · 2 labs · 0 math
+**92** solved · 90 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-11 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-08-31 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-10-02 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
