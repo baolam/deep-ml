@@ -15,7 +15,7 @@ def soft_threshold(w: np.ndarray, threshold: float) -> np.ndarray:
         - Values with |w| ≤ λ become exactly zero
     """
     # Your code here
-    return np.sign(w) * np.maximum(np.abs(w) - threshold, 0.0)
+    return np.sign(w) * np.maximum(0.0, np.abs(w) - threshold)
 
 def l1_regularization_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: float = 0.1, learning_rate: float = 0.01, max_iter: int = 1000, tol: float = 1e-4) -> tuple:
     """
@@ -42,23 +42,20 @@ def l1_regularization_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: floa
     weights = np.zeros(n_features)
     bias = 0.0
     
-    # Your code here
     for _ in range(max_iter):
-        y_pred = X @ weights + bias
-        error = y_pred - y
+        error = (X @ weights + bias) - y
 
         grad_w = X.T @ error / n_samples
-        grab_b = error.sum() / n_samples
+        grad_b = error.mean()    
 
-        weight_steps = weights - learning_rate * grad_w
-        bias -= learning_rate * grab_b
+        w_step = weights - learning_rate * grad_w
+        bias -= learning_rate * grad_b
 
-        new = soft_threshold(weight_steps, learning_rate * alpha)
-        delta = new - weights
-        weights = new
-        
+        w_new = soft_threshold(w_step, learning_rate * alpha)
+        delta = weights - w_new
+        weights = w_new
+
         if np.linalg.norm(delta) < tol:
             break
-    
-
+        
     return weights, float(bias)
