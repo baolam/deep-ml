@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:57:37.819Z",
+  "generated_at": "2026-10-18T07:08:56.370Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -1352,6 +1352,19 @@
       "last_pushed_at": "2026-10-18T06:57:36.063Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2026-10-18T07:08:55.103Z",
+      "last_pushed_at": "2026-10-18T07:08:55.103Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
