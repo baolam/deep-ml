@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 103 problems · 2 labs · 0 math
+**106** solved · 104 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-10-08 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-06 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-18 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-27 | [solution](problems/0017-k-means-clustering) |
 | [Masked Cross-Entropy Loss for Supervised Finetuning](https://www.deep-ml.com/problems/795) | medium | 2026-09-23 | [solution](problems/0795-masked-cross-entropy-loss-for-supervised-finetuning) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-26 | [solution](problems/0009-matrix-times-matrix) |
