@@ -8,19 +8,20 @@ def performance_metrics(actual: list[int], predicted: list[int]) -> tuple:
 			tp += 1
 		elif a == 0 and p == 1:
 			fp += 1
-		elif a == 0 and p == 0:
-			tn += 1
 		elif a == 1 and p == 0:
 			fn += 1
-
+		elif a == 0 and p == 0:
+			tn += 1
+		
 	confusion_matrix = [
 		[tp, fn],
 		[fp, tn]
 	]
 
-	accuracy = (tp + tn) / len(actual)
+	accuracy = (tp + tn) / (tp + tn + fp + fn)
 	specificity = tn / (tn + fp)
 	negativePredictive = tn / (tn + fn)
+	
 	precision = tp / (tp + fp)
 	recall = tp / (tp + fn)
 	f1 = 2 * precision * recall / (precision + recall)

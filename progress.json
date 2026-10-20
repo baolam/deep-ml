@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:15:23.049Z",
+  "generated_at": "2026-10-20T02:19:55.961Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -1414,9 +1414,9 @@
       "url": "https://www.deep-ml.com/problems/77",
       "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
       "first_solved_at": "2026-10-20T02:15:23.192Z",
-      "last_pushed_at": "2026-10-20T02:15:23.192Z",
+      "last_pushed_at": "2026-10-20T02:19:56.121Z",
       "language": "python",
-      "lines": 29
+      "lines": 30
     }
   }
 }
