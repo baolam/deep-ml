@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 110 problems · 2 labs · 0 math
+**113** solved · 111 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-09-20 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate LoRA Rank Selection with Synthetic Low-Rank Updates](https://www.deep-ml.com/problems/879) | medium | 2026-09-27 | [solution](problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates) |
+| [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-10-21 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-07 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-08 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-21 | [solution](problems/0589-deterministic-policy-gradient) |
