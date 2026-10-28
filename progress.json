@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:37:56.952Z",
+  "generated_at": "2026-10-28T14:01:30.907Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -1482,6 +1482,19 @@
       "last_pushed_at": "2026-10-27T12:37:55.837Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-10-28T14:01:30.484Z",
+      "last_pushed_at": "2026-10-28T14:01:30.484Z",
+      "language": "python",
+      "lines": 91
     }
   }
 }
