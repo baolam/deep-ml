@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**115** solved · 113 problems · 2 labs · 0 math
+**116** solved · 114 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Deterministic Policy Gradient](https://www.deep-ml.com/problems/589) | hard | 2026-09-21 | [solution](problems/0589-deterministic-policy-gradient) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-09-30 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-09 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-30 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 
 ## Labs
 
