@@ -13,15 +13,16 @@ def svd_2x2(A: np.ndarray) -> tuple:
         V: 2x2 matrix (right singular vectors)
     """
     # Your code here
-    A = np.array(A, dtype=float)
-    ATA = A.T @ A
+    A = np.array(A, dtype = float)
+    AtA = A.T @ A
 
-    val, vec = np.linalg.eigh(ATA)
-
+    val, vec = np.linalg.eigh(AtA)
+    
+    # Tiến hành xử lý val, vec
     idx = np.argsort(val)[::-1]
     val = np.maximum(val[idx], 0.0)
-
     V_cols = vec[:, idx]
+
     s = np.sqrt(val)
     V = V_cols.T
 
@@ -33,8 +34,8 @@ def svd_2x2(A: np.ndarray) -> tuple:
             U[:, i] = (A @ V[i, :]) / s[i]
         else:
             if i == 1:
-                U[:, 1] = np.array([-U[1, 0], U[0, 0]])
+                U[:, 1] = np.array([-U[1, 0], U[0, 1]])
             else:
-                U[:, 0] = np.array([1.0, 0.0])
-    
+                U[:, 0] = np.array([1.0, 0.0]) 
+
     return U, s, V
