@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:55:52.725Z",
+  "generated_at": "2026-10-31T02:00:54.969Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -1508,6 +1508,19 @@
       "last_pushed_at": "2026-10-30T02:55:52.065Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-10-31T02:00:54.466Z",
+      "last_pushed_at": "2026-10-31T02:00:54.466Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
