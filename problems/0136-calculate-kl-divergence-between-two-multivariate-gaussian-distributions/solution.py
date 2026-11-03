@@ -17,12 +17,12 @@ def multivariate_kl_divergence(mu_p: np.ndarray, Cov_p: np.ndarray, mu_q: np.nda
     k = mu_p.shape[0]
 
     trace_term = np.trace(np.linalg.solve(Cov_q, Cov_p))
-    diff = mu_q - mu_p
-    quad = diff.T @ np.linalg.solve(Cov_q, diff)
+    diff = mu_p - mu_q
+    quad_term = diff @ np.linalg.solve(Cov_q, diff)
 
     _, log_det_q = np.linalg.slogdet(Cov_q)
     _, log_det_p = np.linalg.slogdet(Cov_p)
     log_det_term = log_det_q - log_det_p
 
-    kl = 0.5 * (trace_term + quad - k + log_det_term)
+    kl = 0.5 * (log_det_term - k + quad_term + trace_term)
     return kl
