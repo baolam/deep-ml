@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 121 problems · 2 labs · 0 math
+**124** solved · 122 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-11-03 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-20 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-10-19 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
+| [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-11-07 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-10-02 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Conditional Aggregation of Odd vs Even Readings per Day](https://www.deep-ml.com/problems/1238) | medium | 2026-09-30 | [solution](problems/1238-conditional-aggregation-of-odd-vs-even-readings-per-day) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-10-07 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
