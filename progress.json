@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:28:07.925Z",
+  "generated_at": "2026-11-10T16:32:26.771Z",
   "items": {
     "problem:1228": {
       "kind": "problem",
@@ -1674,7 +1674,7 @@
       "url": "https://www.deep-ml.com/problems/1128",
       "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
       "first_solved_at": "2026-11-10T16:28:06.934Z",
-      "last_pushed_at": "2026-11-10T16:28:06.934Z",
+      "last_pushed_at": "2026-11-10T16:32:25.994Z",
       "language": "python",
       "lines": 18
     }

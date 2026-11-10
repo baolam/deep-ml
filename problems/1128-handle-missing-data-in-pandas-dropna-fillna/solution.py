@@ -3,11 +3,11 @@ import pandas as pd
 def solution(df):
     df = df.copy()
 
-    col_null_ratio = df.isnull().mean(axis=0)
-    df = df.loc[:, col_null_ratio <= 0.5]
+    col_ra = df.isnull().mean(axis=0)
+    df = df.loc[:, col_ra <= 0.5]
 
-    row_null_ratio = df.isnull().mean(axis=1)
-    df = df.loc[row_null_ratio <= 0.5, :]
+    row_ra = df.isnull().mean(axis=1)
+    df = df.loc[row_ra <= 0.5]
 
     for col in df.columns:
         if pd.api.types.is_numeric_dtype(df[col]):
