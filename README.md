@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 128 problems · 2 labs · 0 math
+**131** solved · 129 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-23 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-18 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-17 | [solution](problems/1228-mean-squared-error-from-scratch) |
+| [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-11-11 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Merge LoRA Adapter Weights for Zero-Latency Inference](https://www.deep-ml.com/problems/866) | easy | 2026-09-11 | [solution](problems/0866-merge-lora-adapter-weights-for-zero-latency-inference) |
 | [Multi-layer ViT Feature Concatenation](https://www.deep-ml.com/problems/783) | easy | 2026-09-18 | [solution](problems/0783-multi-layer-vit-feature-concatenation) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-15 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
