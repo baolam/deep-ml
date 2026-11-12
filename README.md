@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 131 problems · 2 labs · 0 math
+**134** solved · 132 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-17 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-11-11 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Merge LoRA Adapter Weights for Zero-Latency Inference](https://www.deep-ml.com/problems/866) | easy | 2026-09-11 | [solution](problems/0866-merge-lora-adapter-weights-for-zero-latency-inference) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-12 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Multi-layer ViT Feature Concatenation](https://www.deep-ml.com/problems/783) | easy | 2026-09-18 | [solution](problems/0783-multi-layer-vit-feature-concatenation) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-15 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-21 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
