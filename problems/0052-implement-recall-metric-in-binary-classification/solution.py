@@ -19,5 +19,11 @@ def recall(y_true, y_pred):
     # tn = (y_true == 0 & y_pred == 0).sum()
     fn = ((y_true == 1) & (y_pred == 0)).sum()
 
+    # true, pred
+    # tp (1, 1)   fp (0, 1)
+    # fn (1, 0)   tn (0, 0)
+
+
+    # Recall, positive / actual_positive
     ans = tp / (tp + fn)
     return ans
