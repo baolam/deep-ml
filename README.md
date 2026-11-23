@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**140** solved · 138 problems · 2 labs · 0 math
+**141** solved · 139 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -104,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-10-07 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dueling Network Architecture](https://www.deep-ml.com/problems/592) | medium | 2026-09-11 | [solution](problems/0592-dueling-network-architecture) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-05 | [solution](problems/0205-entropy-cross-entropy) |
+| [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-11-23 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-09 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-09-18 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-24 | [solution](problems/1191-fixed-size-block-memory-allocator) |
